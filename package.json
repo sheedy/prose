@@ -7,7 +7,7 @@
     "chosen-jquery-browserify": "~0.9.15",
     "js-yaml": "git://github.com/prose/js-yaml.git",
     "backbone": "~1.0.0",
-    "underscore": "~1.4.4",
+    "underscore": "~1.10.2",
     "chrono": "~1.0.4",
     "js-base64": "~2.1.1",
     "keymaster": "git://github.com/madrobby/keymaster.git#ddcb72eceb033db",
