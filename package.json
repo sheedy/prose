@@ -13,7 +13,7 @@
     "keymaster": "git://github.com/madrobby/keymaster.git#ddcb72eceb033db",
     "marked": "~0.2.8",
     "queue-async": "~1.0.3",
-    "diff": "~1.0.4",
+    "diff": "~1.4.0",
     "deepmerge": "~0.2.7"
   },
   "keywords": [
